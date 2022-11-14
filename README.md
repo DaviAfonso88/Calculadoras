@@ -1,6 +1,7 @@
 # 🌌 Calculadora-IMC 🌌
 
-![IMC](https://user-images.githubusercontent.com/89953265/201686928-f32c6364-1cdb-4dfd-9607-385dc4768852.gif)
+![IMC](https://user-images.githubusercontent.com/89953265/201688477-dd85013a-4e8f-419f-a481-00cc5d63c932.gif)
+
 
 
 <br>
