@@ -1,13 +1,15 @@
-# 🖩 Calculadora-IMC
+# 🌌 Calculadora-IMC 🌌
 
-![image](https://user-images.githubusercontent.com/89953265/199793972-6405d794-b495-495c-8b49-d9acab8096b9.png)
+![IMC](https://user-images.githubusercontent.com/89953265/201688477-dd85013a-4e8f-419f-a481-00cc5d63c932.gif)
+
 
 
 <br>
 
 
-# 🖩 Calculadora
-![image](https://user-images.githubusercontent.com/89953265/199799590-93da41fd-0382-41a3-a37e-2b485e967669.png)
+# 🔢 Calculadora 🔢
+![Calculadora](https://user-images.githubusercontent.com/89953265/201714883-284f2f9d-612d-4d9e-8495-4da445cf846a.gif)
+
 
 
 
